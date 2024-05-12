@@ -1,13 +1,14 @@
-package sample.tdd;
+꾸러미 sample.tdd;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+수입품 org.junit.jupiter.api.Test;
+수입품 org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TddDevelopmentStartApplicationTests {
+학급 Tdd 개발 시작 응용 프로그램테스트 {
 
+    // Sample Test
     @Test
-    void contextLoads() {
+    공허한 컨텍스트 로드() {
     }
 
 }
